@@ -5,7 +5,7 @@ Spell Checker Application
 """
 
 from spellchecker import SpellChecker
-
+# test
 class SpellCheckApp:
     def __init__(self):
         self.spell = SpellChecker()
